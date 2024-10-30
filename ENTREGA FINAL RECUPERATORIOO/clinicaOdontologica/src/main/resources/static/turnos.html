@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/logged.css">
+    <link rel="stylesheet" href="css/adm.css">
+    <script src="https://kit.fontawesome.com/e50f04e157.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/admTurnos/buscarTurno.js"></script>
+    <script type="text/javascript" src="js/admTurnos/crearTurno.js"></script>
+    <script type="text/javascript" src="js/admTurnos/eliminarTurno.js"></script>
+    <script type="text/javascript" src="js/admTurnos/modificarTurno.js"></script>
+    <script type="text/javascript" src="js/admTurnos/listarTodosTurno.js"></script>
+    <title>Clínica Odontólogica</title>
+</head>
+
+<body>
+<header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom" style="background-color: rgba(52,144,222,255)">
+    <h1 style="padding:1%; color: white">Clínica Odontólogica</h1>
+    <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0" style="color: white">
+        <li><a href="admOdon.html" class="nav-link px-2" style="color: white">Odontólogos</a></li>
+        <li><a href="admPac.html" class="nav-link px-2" style="color: white">Pacientes</a></li>
+        <li><a href="turnos.html" class="nav-link px-2" style="color: white">Turnos</a></li>
+    </ul>
+    <div class="col-md-3 text-end">
+        <a href="logout" class="button">Salir</a>
+    </div>
+</header>
+<main>
+    <h2 style="padding:3%">Turnos</h2>
+    <!---Barra de nav--->
+    <div class="nav nav-tabs" style="width: 50%; display: flex; justify-content:space-around">
+        <a id="agregar_turno" type="button" class="nav-item">Agregar</a>
+        <a id="boton_buscarTurno" type="button" class="nav-item">Buscar</a>
+        <a id="listar_todosTurnos" type="button" class="nav-item">Listar Todos</a>
+    </div>
+    <!---Barra de nav--->
+
+    <!---Formulario para agregar--->
+    <form id="formularioTurno"
+          style="display: none; width: 50%; background-color: rgba(52,144,222,255); color: white; border-radius:5%; padding: 2%; margin-bottom:3%; position:relative; margin-top:5%">
+        <div class="row">
+            <div class="col-md-6">
+                <label for="inputOdontologo" class="form-label">Odontólogo</label>
+                <input type="text" class="form-control" id="inputOdontologo" required>
+            </div>
+            <div class="col-md-6">
+                <label for="inputPaciente" class="form-label">Paciente</label>
+                <input type="text" class="form-control" id="inputPaciente" required>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label for="inputFechaTurno" class="form-label">Fecha del Turno</label>
+                <input type="date" class="form-control" id="inputFechaTurno" required>
+            </div>
+        </div>
+        <div class="col-12">
+            <button class="btn btn-primary" type="submit">Guardar</button>
+        </div>
+    </form>
+    <div id="response" style="display:none"></div>
+
+    <!---Barra de búsqueda--->
+    <form id="barra_busquedaTurno" role="search" style="display:none">
+        <input class="form-control me-2" type="search" placeholder="Ingrese ID" aria-label="Search" id="idTurno">
+        <button id="botonBuscarBarra" class="btn btn-outline-success" type="submit"
+                style="background-color: rgba(52,144,222,255); color: white; border:none">Buscar</button>
+    </form>
+
+    <!---Tabla listar--->
+    <div id="div_turno_table" style="display:none">
+        <div class="row col-md-6 table-responsive" id="tabla"
+             style="display:none; width: 100%; display: flex; justify-content:space-around; margin-top:5%">
+            <table id="turnoTable" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Paciente</th>
+                    <th>Odontólogo</th>
+                    <th>Fecha</th>
+                </tr>
+                </thead>
+                <tbody id="turnoTableBody">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="col-sm-6"
+         style="display: none; width:50%; color: white; background-color:rgba(52,144,222,255); padding:2%; border-radius:5%"
+         id="div_turno_updating">
+        <form id="update_turno_form">
+            <div class="row">
+                <div class="col-md-6">
+                    <label>Id</label>
+                    <input type="text" class="form-control" id="turno_id" readonly>
+                </div>
+                <div class="col-md-6">
+                    <label>Odontólogo</label>
+                    <input type="text" class="form-control" placeholder="odontologo" id="odontologo">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <label>Paciente</label>
+                    <input type="text" class="form-control" placeholder="paciente" id="paciente">
+                </div>
+            </div>
+            <div>
+                <div class="col-md-6">
+                    <label>Fecha</label>
+                    <input type="text" class="form-control" placeholder="fechaDeTurno" id="fechaDeTurno">
+                </div>
+            </div>
+            <div class="col-12">
+                <button class="btn btn-primary" type="submit">Modificar</button>
+            </div>
+        </form>
+        <div id="responseDelete" style="display:none; margin-top:10px"></div>
+    </div>
+</main>
+
+<footer>
+    <p>Copyright 2023. All Rights Reserved</p>
+</footer>
+
+</body>
+
+</html>

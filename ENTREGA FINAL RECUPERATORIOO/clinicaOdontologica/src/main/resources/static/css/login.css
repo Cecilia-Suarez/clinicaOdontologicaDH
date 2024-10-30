@@ -1,0 +1,68 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: 500;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+
+}
+
+header{
+padding-bottom: 5%}
+
+form {
+    background-color: rgba(52,144,222,255);
+    max-width: 24rem;
+    margin: 0 auto;
+    padding: 2rem 3rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.form-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.form-header h2, p {
+    margin-bottom: .8rem;
+    color: white;
+}
+
+form label {
+    margin-bottom: .3rem;
+    color: white;
+}
+
+form input {
+    border-radius: 100vh;
+    margin-bottom: 1rem;
+    padding: .3rem 1rem;
+    border: 2px solid var(--app-grey);
+}
+
+
+form button{
+    background-color: rgba(52,144,222,255);
+    color: white;
+    padding: .8rem 0;
+    border-radius: .3rem;
+    font-size: 1rem;
+    font-weight: 400;
+    border: none;
+}
+form button:hover{
+    background-color: white;
+        transition: 0.5s;
+        color: rgba(52,144,222,255);
+
+}
+
+footer{
+position:absolute;
+bottom: 0%;
+}

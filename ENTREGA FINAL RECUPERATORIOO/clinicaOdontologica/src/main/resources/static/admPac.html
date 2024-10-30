@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/e50f04e157.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/logged.css">
+    <link rel="stylesheet" href="css/adm.css">
+    <script type="text/javascript" src="js/AdmPaciente/crearPac.js"></script>
+    <script type="text/javascript" src="js/AdmPaciente/buscarPac.js"></script>
+    <script type="text/javascript" src="js/AdmPaciente/listarTodosPac.js"></script>
+    <script type="text/javascript" src="js/AdmPaciente/eliminarPac.js"></script>
+    <script type="text/javascript" src="js/AdmPaciente/modificarPac.js"></script>
+    <title>Clínica Odontólogica</title>
+</head>
+<body>
+<header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom" style="background-color: rgba(52,144,222,255)">
+    <h1 style="padding:1%; color: white">Clínica Odontólogica</h1>
+    <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0" style="color: white">
+        <li><a href="admOdon.html" class="nav-link px-2" style="color: white">Odontólogos</a></li>
+        <li><a href="admPac.html" class="nav-link px-2" style="color: white">Pacientes</a></li>
+        <li><a href="turnos.html" class="nav-link px-2" style="color: white">Turnos</a></li>
+    </ul>
+    <div class="col-md-3 text-end">
+        <a href="logout" class="button">Salir</a>
+    </div>
+</header>
+<main>
+    <h2 style="padding:3%">Pacientes</h2>
+
+    <!---Barra de nav--->
+    <div class="nav nav-tabs" style="width: 50%; display: flex; justify-content:space-around">
+        <a id="agregar_paciente" type="button" class="nav-item">Agregar</a>
+        <a id="boton_buscar" type="button" class="nav-item">Buscar</a>
+        <a id="listar_todos" type="button" class="nav-item">Listar Todos</a>
+    </div>
+    <!---Barra de nav--->
+
+    <!---Formulario para agregar--->
+    <form id="formulario" style="display: none; width: 50%; background-color: rgba(52,144,222,255); color: white; border-radius:5%; padding: 2%; margin-bottom:3%; position:relative; margin-top:5%">
+        <div class="row">
+            <div class="col-md-6">
+                <label for="inputNombre" class="form-label">Nombre</label>
+                <input type="text" class="form-control" id="inputNombre" required>
+            </div>
+            <div class="col-md-6">
+                <label for="inputApellido" class="form-label">Apellido</label>
+                <input type="text" class="form-control" id="inputApellido" required>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label for="inputDNI" class="form-label">D.N.I</label>
+                <input type="text" class="form-control" id="inputDNI" required>
+            </div>
+            <div class="col-md-6">
+                <label for="inputFecha" class="form-label">Fecha de Alta</label>
+                <input type="date" class="form-control" id="inputFecha" required>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label for="inputCalle" class="form-label">Calle</label>
+                <input type="text" class="form-control" id="inputCalle" required>
+            </div>
+            <div class="col-md-6">
+                <label for="inputNumero" class="form-label">Numero</label>
+                <input type="text" class="form-control" id="inputNumero" required>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label for="inputLocalidad" class="form-label">Localidad</label>
+                <input type="text" class="form-control" id="inputLocalidad" required>
+            </div>
+            <div class="col-md-6">
+                <label for="inputProvincia" class="form-label">Provincia</label>
+                <input type="text" class="form-control" id="inputProvincia" required>
+            </div>
+        </div>
+        <div class="col-12">
+                <button class="btn btn-primary" type="submit">Guardar</button>
+        </div>
+    </form>
+    <div id="response" style="display:none"></div>
+
+    <!---Barra de búsqueda--->
+    <form id="barra_busqueda" role="search" style="display:none">
+        <input class="form-control me-2" type="search" placeholder="Ingrese ID" aria-label="Search" id="idPaciente">
+        <button id="botonBuscarBarra" class="btn btn-outline-success" type="submit" style="background-color: rgba(52,144,222,255); color: white; border:none">Buscar</button>
+    </form>
+
+    <!---Tabla listar--->
+    <div id="div_paciente_table" style="display:none">
+        <div class="row col-md-6 table-responsive" id="tabla" style="display:none; width: 100%; display: flex; justify-content:space-around; margin-top:5%">
+            <table id="pacienteTable" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>D.N.I</th>
+                    <th>Calle</th>
+                    <th>Numero</th>
+                    <th>Localidad</th>
+                    <th>Provincia</th>
+                    <th>Fecha de Alta</th>
+                </tr>
+                </thead>
+                <tbody id="pacienteTableBody">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+        <div class="col-sm-6" style="display: none; width:50%; color: white; background-color:rgba(52,144,222,255); padding:2%; border-radius:5%"
+             id="div_paciente_updating">
+            <form id="update_paciente_form">
+                <div class="row">
+                    <div class="col-md-6">
+                         <label >Id</label>
+                        <input type="text" class="form-control" id="paciente_id" readonly>
+                    </div>
+                    <div class="col-md-6">
+                        <label >Nombre</label>
+                        <input type="text" class="form-control" placeholder="nombre" id="nombre">
+                     </div>
+                </div>
+                <div class="row">
+                <div class="col-md-6">
+                    <label >Apellido</label>
+                    <input type="text" class="form-control" placeholder="apellido" id="apellido">
+                </div>
+                <div class="col-md-6">
+                    <label >D.N.I</label>
+                    <input type="text" class="form-control" placeholder="dni" id="dni">
+                </div>
+                </div>
+                <div class="row">
+                <div class="col-md-6">
+                    <label >Calle</label>
+                    <input type="text" class="form-control" placeholder="calle" id="calle">
+                </div>
+                <div class="col-md-6">
+                    <label >Numero</label>
+                    <input type="text" class="form-control" placeholder="numero" id="numero">
+                </div>
+                </div>
+                <div class="row">
+                <div class="col-md-6">
+                    <label >Localidad</label>
+                    <input type="text" class="form-control" placeholder="localidad" id="localidad">
+                </div>
+                <div class="col-md-6">
+                    <label >Provincia</label>
+                    <input type="text" class="form-control" placeholder="provincia" id="provincia">
+                </div>
+                <div class="col-md-6">
+                    <label >Fecha de Alta</label>
+                    <input type="text" class="form-control" placeholder="fechDeAlta" id="fechaDeAlta">
+                </div>
+        </div>
+                <div class="col-12">
+                    <button class="btn btn-primary" type="submit">Modificar</button>
+                </div>
+            </form>
+            <div id="responseDelete" style="display:none; margin-top:10px"></div>
+        </div>
+
+</main>
+
+
+
+</body>
+</html>

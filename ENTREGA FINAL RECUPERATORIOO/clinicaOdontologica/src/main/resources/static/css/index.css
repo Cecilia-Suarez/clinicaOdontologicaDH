@@ -1,0 +1,233 @@
+/*Globales*/
+:root {
+    --azulBrillante: rgba(52,144,222,255);
+    --azulOscuro: rgb(35, 44, 81);
+    --azulGrisaceoOscuro: rgb(143, 148, 167);
+    --azulMuyOscuro: rgb(29, 30, 37);
+    --rojoMuyPalido: rgb(255, 239, 234);
+}
+
+html{
+scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: 500;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+header, .home, #testimonios div, footer{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+h1, h3, h4, h5{
+    color: var(--azulOscuro);
+}
+
+p{
+    color: var(--azulGrisaceoOscuro);
+}
+
+header, nav a, .lista span{
+    color: var(--azulMuyOscuro);
+}
+
+.button {
+    background-color: var(--azulBrillante);
+    border: none;
+    border-radius: 3.125rem;
+    box-shadow: 0 0.25rem 0.438rem rgba(0, 0, 0, 0.25);
+    color: white;
+    font-size: 0.824rem;
+    padding: 0.781rem 1.9rem;
+    text-decoration: none;
+}
+
+.button:hover{
+    color: var(--azulBrillante);
+    background-color: white;
+    transition: 0.5s;
+}
+
+/*Header*/
+
+header{
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+header nav {
+    font-size: 0.8rem;
+}
+
+header nav a{
+    margin-right: 1.75rem;
+    text-decoration: none;
+}
+
+header .logo{
+width:25%;
+height: auto;
+}
+
+/*Home*/
+.home{
+flex-direction:column;
+}
+
+.home .intro{
+    text-align: center;
+    color: var(--azulMuyOscuro);
+}
+
+#sobreNosotros{
+width: 100%;
+display: flex;
+    height: 40rem;
+    padding: 0%;
+}
+
+#sobreNosotros p{
+width:50%;
+line-height: 2.5rem;
+margin: 1%;
+}
+
+#slider{
+width:50%
+max-width: 50%;
+transition: 1s;
+}
+  #sobreNosotros .slide {
+    display: none;
+  }
+
+  #sobreNosotros .slide img {
+    width: 100%;
+    height: auto;
+  }
+
+  #sobreNosotros .slide.active {
+    display: block;
+  }
+
+/*Servicios*/
+#servicios{
+display: flex;
+flex-direction: column;
+}
+
+.listas{
+display: flex;
+justify-content: space-around;
+}
+
+h4{
+    color: var(--azulOscuro);
+    font-size: 2.25rem;
+    font-weight: 700;
+    text-align: center;}
+
+.lista {
+    counter-reset: item;
+    list-style-type: none;
+    list-style-position: inside;
+    padding: 2%;
+    position: relative;
+    width: 50%;
+}
+
+.lista span{
+    font-weight: 700;
+}
+
+.lista li {
+    position: relative;
+    padding-left: 6%;
+}
+
+lista li::before {
+    content: ""; /* Agrega contenido al elemento */
+        position: absolute; /* Posición absoluta */
+        left: 0; /* Alineación a la izquierda */
+        top: 0; /* Alineación en la parte superior */
+        width: 30%; /* Ancho de la imagen */
+        height: 30%; /* Altura de la imagen */
+        background-image: url("img/muelita.png"); /* Ruta de la imagen */
+        background-size: contain;
+        background-repeat: no-repeat;
+}
+
+.lista p{
+    font-weight: 500;
+    position: relative;
+
+}
+
+/*Testimonios*/
+#testimonios{
+   text-align: center;
+}
+
+h3{
+    font-size: 2.451rem;
+    font-weight: 700;
+}
+
+#testimonios article{
+    align-items: center;
+    background-color: var(--azulBrillante);
+    display: flex;
+    flex-direction: column;
+    height: 13.688rem;
+    margin: 4.625rem 0 2.813rem 0;
+    position: relative;
+    width: 24rem;
+    transition: 0.3s;
+}
+
+#testimonios article:hover{
+    transform: scale(1.5);
+    transition: 0.3s;
+    z-index: 10;
+    box-shadow: 0 0.25rem 0.438rem rgba(0, 0, 0, 0.25);
+}
+
+#testimonios article img{
+   height: 4.375rem;
+   position: absolute;
+   top: -35px;
+}
+
+h5{
+    font-weight: 700;
+    padding-top: 1.313rem;
+}
+
+#testimonios article p{
+    padding: 0 1.688rem 0 1.688rem;
+    color: white;
+}
+
+#testimonios article img{
+border-radius: 50%;
+}
+
+
+footer p{
+color: white;
+
+}

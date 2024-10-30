@@ -1,0 +1,1834 @@
+[2023-08-22 13:22:06] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontologo{id=null, matricula=1, nombre='Francisco', apellido='Rodriguez'}
+[2023-08-22 13:22:07] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontologo{id=null, matricula=2, nombre='Pedro', apellido='Fernandez'}
+[2023-08-22 13:22:07] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontologo{id=null, matricula=3, nombre='Gonzalo', apellido='Chaves'}
+[2023-08-22 13:22:08] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 13:23:00] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontologo{id=null, matricula=1, nombre='Francisco', apellido='Rodriguez'}
+[2023-08-22 13:23:01] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontologo{id=null, matricula=2, nombre='Pedro', apellido='Fernandez'}
+[2023-08-22 13:23:01] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontologo{id=null, matricula=3, nombre='Gonzalo', apellido='Chaves'}
+[2023-08-22 13:23:02] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 13:32:53] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 13:32:54] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 13:32:54] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 13:32:55] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 13:37:41] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:36] Eliminando al Odontólogo
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 13:37:42] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 13:38:38] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 13:38:38] [INFO ] [OdontologoService:36] Eliminando al Odontólogo
+[2023-08-22 13:38:38] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 13:39:18] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 13:39:18] [INFO ] [OdontologoService:36] Eliminando al Odontólogo
+[2023-08-22 13:39:18] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 13:39:51] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 13:39:52] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 13:39:52] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 13:39:53] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 13:40:48] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 13:41:06] [INFO ] [OdontologoService:36] Eliminando al Odontólogo
+[2023-08-22 14:14:35] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RafaelUmpierrez, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:14:35] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, AgustínPeréz, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:14:35] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RodrigoFernández, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:14:35] [INFO ] [PacienteService:27] Listando todos los Pacientes
+[2023-08-22 14:16:05] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RafaelUmpierrez, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:16:06] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, AgustínPeréz, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:16:06] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RodrigoFernández, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:16:06] [INFO ] [PacienteService:27] Listando todos los Pacientes
+[2023-08-22 14:22:09] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RafaelUmpierrez, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:22:09] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, AgustínPeréz, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:22:09] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RodrigoFernández, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 14:22:09] [INFO ] [PacienteService:27] Listando todos los Pacientes
+[2023-08-22 14:30:26] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 14:30:28] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 14:30:28] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 14:30:28] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 14:30:28] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 14:30:28] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 14:30:28] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 14:30:28] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 14:36:04] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 14:36:04] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 14:36:04] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 14:36:04] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 14:36:04] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 14:36:04] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 14:36:04] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 14:36:04] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 14:36:36] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 14:36:36] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 14:36:36] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 14:36:36] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 14:36:36] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 14:36:36] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 14:36:36] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 14:36:36] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 15:06:13] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RafaelUmpierrez, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 15:06:14] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, AgustínPeréz, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 15:06:14] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RodrigoFernández, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 15:06:14] [INFO ] [PacienteService:27] Listando todos los Pacientes
+[2023-08-22 15:29:53] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:29:54] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:29:55] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:29:55] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 15:29:55] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:29:55] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:29:55] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:29:55] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 15:34:57] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:34:58] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:34:59] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:34:59] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 15:35:30] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:35:30] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:35:31] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:35:31] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 15:37:01] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:37:03] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:37:03] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:37:03] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 15:39:02] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:39:02] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:39:03] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:39:03] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 15:46:47] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:46:47] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:46:48] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:46:48] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 15:46:48] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:46:48] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:46:48] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:46:48] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 15:48:16] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:48:16] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:48:16] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:48:16] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 15:48:16] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:48:16] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:48:16] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:48:16] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 15:53:27] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:53:28] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:53:28] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:53:29] [INFO ] [OdontologoService:31] Buscando Odontólogo
+[2023-08-22 15:53:29] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:53:29] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 15:53:29] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 15:53:29] [INFO ] [OdontologoService:26] Listando todos los Odontólogos
+[2023-08-22 15:56:50] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 15:59:50] [INFO ] [OdontologoService:21] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 16:00:03] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=21), matricula:1, Francisco Rodriguez
+[2023-08-22 16:00:03] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=22), matricula:2, Pedro Fernandez
+[2023-08-22 16:00:03] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=23), matricula:3, Gonzalo Chaves
+[2023-08-22 16:00:03] [INFO ] [OdontologoService:32] Buscando Odontólogo
+[2023-08-22 16:00:03] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=24), matricula:1, Francisco Rodriguez
+[2023-08-22 16:00:03] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=25), matricula:2, Pedro Fernandez
+[2023-08-22 16:00:03] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=26), matricula:3, Gonzalo Chaves
+[2023-08-22 16:00:03] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:02:40] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 16:02:40] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 16:02:40] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 16:02:40] [INFO ] [OdontologoService:32] Buscando Odontólogo
+[2023-08-22 16:02:40] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 16:02:40] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 16:02:40] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 16:02:40] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:04:23] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 16:04:23] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 16:04:23] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 16:04:23] [INFO ] [OdontologoService:32] Buscando Odontólogo
+[2023-08-22 16:04:23] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:1, Francisco Rodriguez
+[2023-08-22 16:04:23] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:2, Pedro Fernandez
+[2023-08-22 16:04:23] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=null), matricula:3, Gonzalo Chaves
+[2023-08-22 16:04:23] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:04:35] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=1), matricula:1, Francisco Rodriguez
+[2023-08-22 16:04:35] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=2), matricula:2, Pedro Fernandez
+[2023-08-22 16:04:36] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=3), matricula:3, Gonzalo Chaves
+[2023-08-22 16:04:36] [INFO ] [OdontologoService:32] Buscando Odontólogo
+[2023-08-22 16:04:37] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=4), matricula:1, Francisco Rodriguez
+[2023-08-22 16:04:37] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=5), matricula:2, Pedro Fernandez
+[2023-08-22 16:04:37] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=6), matricula:3, Gonzalo Chaves
+[2023-08-22 16:04:37] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:08:20] [INFO ] [OdontologoService:32] Buscando Odontólogo
+[2023-08-22 16:08:20] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:08:20] [INFO ] [OdontologoService:38] Eliminando al Odontólogo
+[2023-08-22 16:08:20] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:08:45] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=1), matricula:1, Francisco Rodriguez
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=2), matricula:2, Pedro Fernandez
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=3), matricula:3, Gonzalo Chaves
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:32] Buscando Odontólogo
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=4), matricula:1, Francisco Rodriguez
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=5), matricula:2, Pedro Fernandez
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=6), matricula:3, Gonzalo Chaves
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=7), matricula:1, Francisco Rodriguez
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=8), matricula:2, Pedro Fernandez
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=9), matricula:3, Gonzalo Chaves
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:38] Eliminando al Odontólogo
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=10), matricula:1, Francisco Rodriguez
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=11), matricula:2, Pedro Fernandez
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=12), matricula:3, Gonzalo Chaves
+[2023-08-22 16:08:46] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:09:18] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=13), matricula:1, Francisco Rodriguez
+[2023-08-22 16:09:19] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=14), matricula:2, Pedro Fernandez
+[2023-08-22 16:09:19] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=15), matricula:3, Gonzalo Chaves
+[2023-08-22 16:09:19] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:10:02] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=1), matricula:1, Francisco Rodriguez
+[2023-08-22 16:10:03] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=2), matricula:2, Pedro Fernandez
+[2023-08-22 16:10:03] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=3), matricula:3, Gonzalo Chaves
+[2023-08-22 16:10:03] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 16:10:28] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=4), matricula:1, Francisco Rodriguez
+[2023-08-22 16:10:29] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=5), matricula:2, Pedro Fernandez
+[2023-08-22 16:10:29] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=6), matricula:3, Gonzalo Chaves
+[2023-08-22 16:10:29] [INFO ] [OdontologoService:32] Buscando Odontólogo
+[2023-08-22 16:10:56] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=7), matricula:1, Francisco Rodriguez
+[2023-08-22 16:10:56] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=8), matricula:2, Pedro Fernandez
+[2023-08-22 16:10:56] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=9), matricula:3, Gonzalo Chaves
+[2023-08-22 16:10:56] [INFO ] [OdontologoService:38] Eliminando al Odontólogo
+[2023-08-22 16:11:27] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=10), matricula:1, Francisco Rodriguez
+[2023-08-22 16:11:27] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=11), matricula:2, Pedro Fernandez
+[2023-08-22 16:11:28] [INFO ] [OdontologoService:22] Guardando Odontólogo: Odontólogo (id=12), matricula:3, Gonzalo Chaves
+[2023-08-22 16:11:28] [INFO ] [OdontologoService:27] Listando todos los Odontólogos
+[2023-08-22 18:03:48] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RafaelUmpierrez, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:03:49] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, AgustínPeréz, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:03:49] [INFO ] [PacienteService:19] Guardando Paciente: Paciente (id: null, RodrigoFernández, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=null) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:03:49] [INFO ] [PacienteService:27] Listando todos los Pacientes
+[2023-08-22 18:07:19] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 4, RafaelUmpierrez, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=4) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:07:19] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 5, AgustínPeréz, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=5) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:07:19] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 6, RodrigoFernández, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=6) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:07:19] [INFO ] [PacienteService:29] Listando todos los Pacientes
+[2023-08-22 18:08:15] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 7, RafaelUmpierrez, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=7) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:08:15] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 8, AgustínPeréz, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=8) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:08:15] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 9, RodrigoFernández, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=9) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:08:15] [INFO ] [PacienteService:25] Buscando Paciente
+[2023-08-22 18:09:29] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 10, RafaelUmpierrez, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=10) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:09:29] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 11, AgustínPeréz, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=11) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:09:29] [INFO ] [PacienteService:21] Guardando Odontólogo: Paciente (id: 12, RodrigoFernández, DNI: 123456, fechaIngreso:Wed Dec 31 21:00:02 UYT 1969, domicilio:Domicilio(id=12) Los Pinos 1234, Malvin, Montevideo.
+[2023-08-22 18:09:29] [INFO ] [PacienteService:34] Eliminando al Paciente
+[2023-08-22 18:23:53] [INFO ] [DomicilioService:19] Guardando domicilio: Domicilio(id=null) Los Pinos 1233, Malvin, Montevideo.
+[2023-08-22 18:23:54] [INFO ] [DomicilioService:19] Guardando domicilio: Domicilio(id=null) Avda. Las Instrucciones del Año 1913 1234, Las Piedras, Canelones.
+[2023-08-22 18:23:54] [INFO ] [DomicilioService:19] Guardando domicilio: Domicilio(id=null) Colonia 1303, Centro, Montevideo.
+[2023-08-22 18:23:54] [INFO ] [DomicilioService:27] Listando todos los domicilios
+[2023-08-22 18:29:30] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=16) Los Pinos 1233, Malvin, Montevideo.
+[2023-08-22 18:29:30] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=17) Avda. Las Instrucciones del Año 1913 1234, Las Piedras, Canelones.
+[2023-08-22 18:29:30] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=18) Colonia 1303, Centro, Montevideo.
+[2023-08-22 18:29:30] [INFO ] [DomicilioService:29] Listando todos los Domicilios
+[2023-08-22 18:29:50] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=16) Los Pinos 1233, Malvin, Montevideo.
+[2023-08-22 18:29:50] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=17) Avda. Las Instrucciones del Año 1913 1234, Las Piedras, Canelones.
+[2023-08-22 18:29:50] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=18) Colonia 1303, Centro, Montevideo.
+[2023-08-22 18:29:50] [INFO ] [DomicilioService:25] Buscando Domicilio
+[2023-08-22 18:30:12] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=19) Los Pinos 1233, Malvin, Montevideo.
+[2023-08-22 18:30:13] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=20) Avda. Las Instrucciones del Año 1913 1234, Las Piedras, Canelones.
+[2023-08-22 18:30:13] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=21) Colonia 1303, Centro, Montevideo.
+[2023-08-22 18:30:13] [INFO ] [DomicilioService:34] Eliminando al Domicilio
+[2023-08-22 18:31:23] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=null) Los Pinos 1233, Malvin, Montevideo.
+[2023-08-22 18:31:23] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=null) Avda. Las Instrucciones del Año 1913 1234, Las Piedras, Canelones.
+[2023-08-22 18:31:23] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=null) Colonia 1303, Centro, Montevideo.
+[2023-08-22 18:31:23] [INFO ] [DomicilioService:34] Eliminando al Domicilio
+[2023-08-22 18:31:35] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=1) Los Pinos 1233, Malvin, Montevideo.
+[2023-08-22 18:31:35] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=2) Avda. Las Instrucciones del Año 1913 1234, Las Piedras, Canelones.
+[2023-08-22 18:31:35] [INFO ] [DomicilioService:21] Guardando Domicilio: Domicilio(id=3) Colonia 1303, Centro, Montevideo.
+[2023-08-22 18:31:35] [INFO ] [DomicilioService:34] Eliminando al Domicilio
+[2023-08-25 15:16:57] [INFO ] [PacienteService:23] Guardando Odontólogo: Paciente (id: 13, AlbertoSilveira, DNI: 384698, fechaIngreso:Thu Apr 30 21:00:00 UYT 2020, domicilio:Domicilio(id=4) Avenida Los Toros 1234, Solymar, Canelones.
+[2023-08-25 15:17:31] [INFO ] [PacienteService:31] Listando todos los Pacientes
+[2023-08-25 15:19:16] [INFO ] [PacienteService:23] Guardando Odontólogo: Paciente (id: 1, AlbertoSilveira, DNI: 384698, fechaIngreso:Thu Apr 30 21:00:00 UYT 2020, domicilio:Domicilio(id=1) Avenida Los Toros 1234, Solymar, Canelones.
+[2023-08-25 15:20:06] [INFO ] [PacienteService:23] Guardando Odontólogo: Paciente (id: 2, GabrielaChaves, DNI: 000000, fechaIngreso:Tue Mar 31 21:00:00 UYT 2020, domicilio:Domicilio(id=2) Colon 18121, Salinas, Canelones.
+[2023-08-25 15:21:31] [INFO ] [PacienteService:23] Guardando Odontólogo: Paciente (id: 3, ValeriaSuarez, DNI: 1111111, fechaIngreso:Thu Mar 31 21:00:00 UYT 2022, domicilio:Domicilio(id=3) Colon 18121, Salinas, Canelones.
+[2023-08-25 15:24:52] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:24:52] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:28:54] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:28:54] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:30:52] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:30:53] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:32:47] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:32:47] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:34:39] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:34:39] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:34:51] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:34:51] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:37:40] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:37:41] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:38:08] [INFO ] [PacienteService:31] Listando todos los Pacientes
+[2023-08-25 15:38:30] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:38:30] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:39:59] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:39:59] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:39:59] [INFO ] [PacienteService:40] Actualizando Paciente
+[2023-08-25 15:43:01] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:44:31] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:44:49] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:56:38] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 15:56:43] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 16:00:58] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 16:00:58] [INFO ] [PacienteService:36] Eliminando al Paciente
+[2023-08-25 16:01:35] [INFO ] [PacienteService:27] Buscando Paciente
+[2023-08-25 16:01:45] [INFO ] [PacienteService:31] Listando todos los Pacientes
+[2023-08-25 16:19:50] [INFO ] [PacienteService:23] Guardando Odontólogo: Paciente (id: 4, EmiliaChavez, DNI: 2222222, fechaIngreso:Sat Dec 31 21:00:00 UYT 2022, domicilio:Domicilio(id=4) Perez Castellanos 18121, Ciudad Vieja, Montevideo.
+[2023-08-25 16:20:50] [INFO ] [PacienteService:23] Guardando Paciente null
+[2023-08-25 16:20:50] [INFO ] [PacienteService:24] Paciente guardado con éxito.
+[2023-08-25 16:22:21] [INFO ] [PacienteService:31] Actualizando Paciente: null
+[2023-08-25 16:22:21] [ERROR] [PacienteService:37] No se actualizó al paciente con éxito.
+[2023-08-25 16:22:51] [INFO ] [PacienteService:31] Actualizando Paciente: null
+[2023-08-25 16:22:51] [ERROR] [PacienteService:37] No se actualizó al paciente con éxito.
+[2023-08-25 16:23:32] [INFO ] [PacienteService:31] Actualizando Paciente: 5
+[2023-08-25 16:23:32] [INFO ] [PacienteService:34] Paciente actualizado con éxito.
+[2023-08-25 16:24:57] [INFO ] [PacienteService:45] Buscando Paciente.
+[2023-08-25 16:24:57] [INFO ] [PacienteService:51] Paciente encontrado.
+[2023-08-25 16:25:09] [INFO ] [PacienteService:45] Buscando Paciente.
+[2023-08-25 16:25:09] [ERROR] [PacienteService:48] No se encontró al Paciente.
+[2023-08-25 16:25:25] [INFO ] [PacienteService:65] Eliminando al Paciente.
+[2023-08-25 16:25:25] [INFO ] [PacienteService:68] Paciente eliminado con éxito.
+[2023-08-25 16:25:33] [INFO ] [PacienteService:65] Eliminando al Paciente.
+[2023-08-25 16:25:33] [ERROR] [PacienteService:71] Ocurrió un error al eliminar al Paciente.
+[2023-08-25 16:25:43] [INFO ] [PacienteService:58] Listando todos los Pacientes.
+[2023-08-25 16:26:36] [INFO ] [PacienteService:23] Guardando Paciente null
+[2023-08-25 16:26:36] [INFO ] [PacienteService:24] Paciente guardado con éxito.
+[2023-08-25 16:58:33] [INFO ] [OdontologoController:21] Guardando Odontólogo con id: null
+[2023-08-25 16:58:33] [INFO ] [OdontologoController:22] Odontólogo guardado con éxito.
+[2023-08-25 16:59:36] [INFO ] [OdontologoController:21] Guardando Odontólogo con id: null
+[2023-08-25 16:59:36] [INFO ] [OdontologoController:22] Odontólogo guardado con éxito.
+[2023-08-25 16:59:53] [INFO ] [OdontologoController:21] Guardando Odontólogo con id: null
+[2023-08-25 16:59:53] [INFO ] [OdontologoController:22] Odontólogo guardado con éxito.
+[2023-08-25 17:00:17] [INFO ] [OdontologoController:41] Actualizando Odontólogo con id: null
+[2023-08-25 17:00:17] [ERROR] [OdontologoController:46] Ocurrió un error al intentar actualizar al Odontólogo.
+[2023-08-25 17:00:45] [INFO ] [OdontologoController:41] Actualizando Odontólogo con id: 1
+[2023-08-25 17:00:45] [INFO ] [OdontologoController:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:01:18] [INFO ] [OdontologoController:41] Actualizando Odontólogo con id: 1000
+[2023-08-25 17:01:18] [INFO ] [OdontologoController:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:02:22] [INFO ] [OdontologoController:41] Actualizando Odontólogo con id: 1000
+[2023-08-25 17:02:22] [INFO ] [OdontologoController:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:02:39] [INFO ] [OdontologoController:41] Actualizando Odontólogo con id: 1000
+[2023-08-25 17:02:39] [INFO ] [OdontologoController:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:04:07] [INFO ] [OdontologoService:41] Actualizando Odontólogo con id: 1000
+[2023-08-25 17:04:07] [INFO ] [OdontologoService:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:04:13] [INFO ] [OdontologoService:41] Actualizando Odontólogo con id: 1000
+[2023-08-25 17:04:13] [INFO ] [OdontologoService:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:05:17] [INFO ] [OdontologoController:54] Listando todos los Odontólogos.
+[2023-08-25 17:05:32] [INFO ] [OdontologoController:41] Actualizando Odontólogo con id: 10
+[2023-08-25 17:05:33] [INFO ] [OdontologoController:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:08:38] [INFO ] [OdontologoController:54] Listando todos los Odontólogos.
+[2023-08-25 17:11:08] [INFO ] [OdontologoController:40] Actualizando Odontólogo con id: 50000
+[2023-08-25 17:11:08] [INFO ] [OdontologoController:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:11:43] [INFO ] [OdontologoController:40] Actualizando Odontólogo con id: 50000
+[2023-08-25 17:11:43] [INFO ] [OdontologoController:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:12:03] [INFO ] [OdontologoController:40] Actualizando Odontólogo con id: 50000
+[2023-08-25 17:12:03] [INFO ] [OdontologoController:43] Odontólogo actualizado con éxito.
+[2023-08-25 17:13:04] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-25 17:13:31] [INFO ] [PacienteController:31] Actualizando Paciente con id: 5
+[2023-08-25 17:13:31] [INFO ] [PacienteController:34] Paciente actualizado con éxito.
+[2023-08-25 17:13:51] [INFO ] [PacienteController:31] Actualizando Paciente con id: 10000
+[2023-08-25 17:13:51] [ERROR] [PacienteController:37] Ocurrió un error al intentar actualizar al Paciente.
+[2023-08-25 17:13:59] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-25 17:17:22] [INFO ] [OdontologoController:40] Actualizando Odontólogo con id: 50000
+[2023-08-25 17:17:22] [ERROR] [OdontologoController:47] Ocurrió un error al intentar actualizar al Odontólogo.
+[2023-08-25 17:18:07] [INFO ] [OdontologoController:55] Listando todos los Odontólogos.
+[2023-08-25 17:18:21] [INFO ] [OdontologoController:28] Buscando Odontólogo.
+[2023-08-25 17:18:21] [INFO ] [OdontologoController:34] Odontólogo encontrado.
+[2023-08-25 17:18:38] [INFO ] [OdontologoController:28] Buscando Odontólogo.
+[2023-08-25 17:18:38] [ERROR] [OdontologoController:31] No se encontró al Odontólogo.
+[2023-08-25 17:19:14] [INFO ] [OdontologoController:62] Eliminando al Odontólogo.
+[2023-08-25 17:19:14] [INFO ] [OdontologoController:65] Odontólogo eliminado con éxito.
+[2023-08-25 19:14:43] [INFO ] [OdontologoController:62] Eliminando al Odontólogo.
+[2023-08-25 19:14:43] [ERROR] [OdontologoController:68] Ocurrió un error al intentar eliminar al Odontólogo.
+[2023-08-25 19:14:59] [INFO ] [OdontologoController:55] Listando todos los Odontólogos.
+[2023-08-25 19:24:46] [INFO ] [TurnoController:31] Guardando Turno
+[2023-08-25 19:24:46] [INFO ] [TurnoController:34] Turno guardado con éxito.
+[2023-08-28 19:43:55] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 19:45:06] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 19:48:39] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 19:52:17] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 19:55:59] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 19:56:20] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 20:01:43] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 20:06:45] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 20:07:10] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 20:08:58] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 20:10:17] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 20:12:29] [INFO ] [PacienteController:58] Listando todos los Pacientes.
+[2023-08-28 20:17:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:18:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:20:37] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:21:25] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:21:43] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:21:45] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:21:48] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:21:48] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:22:08] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:23:23] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:23:29] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:25:19] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:25:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:25:47] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:26:09] [INFO ] [PacienteController:24] Guardando Paciente con id: null
+[2023-08-28 20:26:09] [INFO ] [PacienteController:25] Paciente guardado con éxito.
+[2023-08-28 20:26:18] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:26:27] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:29:20] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:32:09] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:33:08] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:34:24] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:34:52] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:37:07] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:38:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:38:49] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:39:02] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:39:28] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:40:39] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:42:03] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:42:20] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:42:57] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:43:47] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:44:30] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:48:08] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:51:44] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:54:10] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:55:36] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:55:37] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 20:56:50] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:00:09] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:00:25] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:01:16] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:30:54] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:30:54] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:30:59] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 21:30:59] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 21:48:40] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:48:40] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:53:43] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:53:43] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:54:54] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:54:54] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:55:02] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 21:55:02] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 21:57:48] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:57:48] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 21:58:44] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 21:58:44] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 22:00:45] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:00:45] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:02:01] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:02:01] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:02:08] [INFO ] [PacienteController:66] Eliminando al Paciente.
+[2023-08-28 22:02:08] [INFO ] [PacienteController:69] Paciente eliminado con éxito.
+[2023-08-28 22:03:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:03:28] [INFO ] [PacienteController:66] Eliminando al Paciente.
+[2023-08-28 22:03:28] [INFO ] [PacienteController:69] Paciente eliminado con éxito.
+[2023-08-28 22:03:37] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:03:46] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:03:46] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:06:00] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:06:07] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:06:07] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:06:16] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 22:06:16] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 22:19:29] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:19:29] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:19:37] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:19:37] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:19:42] [INFO ] [PacienteController:66] Eliminando al Paciente.
+[2023-08-28 22:19:42] [INFO ] [PacienteController:69] Paciente eliminado con éxito.
+[2023-08-28 22:19:48] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:19:48] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:20:59] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:21:00] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:21:06] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 22:21:06] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 22:30:09] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:30:09] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:32:13] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:32:13] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:33:09] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:33:09] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:33:15] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:33:15] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:33:31] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:33:31] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:34:39] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:34:39] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:35:10] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:35:10] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:46:35] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:46:35] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:56:46] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:56:46] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 22:56:51] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 22:56:51] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:03:52] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:03:52] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:03:54] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:03:54] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:07:28] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:07:28] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:07:39] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:07:39] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:08:07] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:08:07] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:08:30] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:08:30] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:09:59] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:09:59] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:10:02] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:10:02] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:13:16] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:13:16] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:13:19] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:13:19] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:13:54] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:13:54] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:13:57] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:13:57] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:14:09] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:14:09] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:23:59] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:23:59] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:27:07] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:27:07] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:28:50] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:28:50] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:29:25] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:29:25] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:29:27] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:29:27] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:30:05] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:30:05] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:31:01] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:31:01] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:32:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:32:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:32:08] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:32:08] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:32:21] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:32:21] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:32:54] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:32:54] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:32:56] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:32:56] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:34:30] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:34:30] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:34:32] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:34:32] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:35:56] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:35:56] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:36:03] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:36:03] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:36:38] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:36:38] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:36:40] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:36:40] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:37:29] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:37:29] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:37:30] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:37:30] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:37:45] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:37:45] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:37:46] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:37:46] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:38:40] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:38:40] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:38:42] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:38:42] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:38:43] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:38:43] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:38:52] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:38:52] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:38:53] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:38:53] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:40:13] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:40:13] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:40:14] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:40:14] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:40:38] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:40:38] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:40:39] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:40:39] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:40:40] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:40:40] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:42:17] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:42:17] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:42:18] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:42:18] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:42:21] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:42:21] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:42:23] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:42:23] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:43:18] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:43:18] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:43:20] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:43:20] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:43:21] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:43:21] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:43:22] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:43:22] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:43:22] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:43:22] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:43:22] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:43:22] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:43:26] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:43:26] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:43:38] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:43:38] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:43:39] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:43:39] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:44:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:44:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:44:07] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:44:07] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:44:19] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:44:19] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:44:20] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:44:20] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:44:43] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:44:43] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:44:45] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:44:45] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:44:51] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:44:51] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:47:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:47:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:47:23] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:47:23] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:49:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:49:22] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:49:27] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:49:27] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:52:06] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:52:06] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:52:08] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:52:08] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:52:10] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:52:10] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-28 23:56:31] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:56:31] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:59:10] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:59:10] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:59:38] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:59:38] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-28 23:59:40] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-28 23:59:40] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-29 00:00:56] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 00:00:56] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 00:00:58] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-29 00:00:58] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-29 09:40:32] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 09:40:33] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 09:40:40] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-29 09:40:40] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-29 10:27:14] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:27:14] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:27:16] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-29 10:27:16] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-29 10:43:45] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:43:45] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:43:46] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-29 10:43:46] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-29 10:46:35] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:46:35] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:46:36] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-29 10:46:36] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-29 10:47:44] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:47:44] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:47:48] [INFO ] [PacienteController:66] Eliminando al Paciente.
+[2023-08-29 10:47:48] [INFO ] [PacienteController:69] Paciente eliminado con éxito.
+[2023-08-29 10:47:50] [INFO ] [PacienteController:66] Eliminando al Paciente.
+[2023-08-29 10:47:50] [ERROR] [PacienteController:72] Ocurrió un error al intentar eliminar al Paciente.
+[2023-08-29 10:47:52] [INFO ] [PacienteController:66] Eliminando al Paciente.
+[2023-08-29 10:47:52] [INFO ] [PacienteController:69] Paciente eliminado con éxito.
+[2023-08-29 10:47:55] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-29 10:47:55] [ERROR] [PacienteController:49] No se encontró al Paciente.
+[2023-08-29 10:48:01] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:01] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:03] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:03] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:04] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:04] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:04] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:04] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:05] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:08] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:08] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:30] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:30] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:31] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:48:31] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:49:17] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:49:17] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:50:08] [INFO ] [PacienteController:24] Guardando Paciente con id: null
+[2023-08-29 10:50:08] [INFO ] [PacienteController:25] Paciente guardado con éxito.
+[2023-08-29 10:50:23] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:50:30] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:50:30] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:50:35] [INFO ] [PacienteController:46] Buscando Paciente.
+[2023-08-29 10:50:35] [INFO ] [PacienteController:52] Paciente encontrado.
+[2023-08-29 10:50:52] [INFO ] [PacienteController:32] Actualizando Paciente con id: 8
+[2023-08-29 10:50:52] [INFO ] [PacienteController:35] Paciente actualizado con éxito.
+[2023-08-29 10:50:55] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:50:55] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:50:59] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:50:59] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:51:23] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:52:53] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:52:53] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:53:11] [INFO ] [PacienteController:24] Guardando Paciente con id: null
+[2023-08-29 10:53:11] [INFO ] [PacienteController:25] Paciente guardado con éxito.
+[2023-08-29 10:53:20] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:53:20] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:53:52] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:53:58] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:53:58] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:54:01] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:54:01] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:54:10] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-08-29 10:54:10] [INFO ] [PacienteController:59] Listando todos los Pacientes.
+[2023-09-11 22:28:01] [INFO ] [PacienteController:29] Guardando Paciente con id: null
+[2023-09-11 22:28:01] [INFO ] [PacienteController:30] Paciente guardado con éxito.
+[2023-09-11 22:30:35] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:31:50] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:31:58] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:32:24] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:32:26] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:32:30] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:34:13] [INFO ] [PacienteController:41] Buscando Paciente.
+[2023-09-11 22:34:13] [INFO ] [PacienteController:47] Paciente encontrado.
+[2023-09-11 22:41:15] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:41:58] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:43:19] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:43:26] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:43:57] [INFO ] [PacienteController:41] Buscando Paciente.
+[2023-09-11 22:43:57] [INFO ] [PacienteController:47] Paciente encontrado.
+[2023-09-11 22:44:13] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:45:00] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:45:55] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:47:05] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:47:16] [INFO ] [PacienteController:41] Buscando Paciente.
+[2023-09-11 22:47:16] [INFO ] [PacienteController:47] Paciente encontrado.
+[2023-09-11 22:47:18] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:47:21] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:47:21] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:47:21] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:28] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:33] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:37] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:38] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:40] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:42] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:45] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:50] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:51] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:53] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:50:55] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:51:24] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:51:25] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:51:29] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:51:30] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:58:03] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:58:07] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:58:11] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:58:15] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 22:58:16] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:11:30] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:11:32] [INFO ] [PacienteController:41] Buscando Paciente.
+[2023-09-11 23:11:32] [INFO ] [PacienteController:47] Paciente encontrado.
+[2023-09-11 23:11:37] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:11:59] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:11:59] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:12:02] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:12:05] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:12:06] [INFO ] [PacienteController:41] Buscando Paciente.
+[2023-09-11 23:12:06] [INFO ] [PacienteController:47] Paciente encontrado.
+[2023-09-11 23:14:10] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:14:11] [INFO ] [PacienteController:41] Buscando Paciente.
+[2023-09-11 23:14:11] [INFO ] [PacienteController:47] Paciente encontrado.
+[2023-09-11 23:14:16] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:15:20] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:15:21] [INFO ] [PacienteController:41] Buscando Paciente.
+[2023-09-11 23:15:21] [INFO ] [PacienteController:47] Paciente encontrado.
+[2023-09-11 23:15:26] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:22:17] [INFO ] [PacienteController:29] Guardando Paciente con id: null
+[2023-09-11 23:22:17] [INFO ] [PacienteController:30] Paciente guardado con éxito.
+[2023-09-11 23:22:17] [ERROR] [PacienteController:33] Error al guardar el Paciente
+[2023-09-11 23:23:32] [INFO ] [PacienteController:29] Guardando Paciente con id: null
+[2023-09-11 23:23:32] [INFO ] [PacienteController:30] Paciente guardado con éxito.
+[2023-09-11 23:23:32] [ERROR] [PacienteController:33] Error al guardar el Paciente
+[2023-09-11 23:27:30] [INFO ] [OdontologoController:29] Guardando Odontólogo con id: null
+[2023-09-11 23:27:30] [INFO ] [OdontologoController:30] Odontólogo guardado con éxito.
+[2023-09-11 23:35:01] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:35:01] [INFO ] [OdontologoController:42] Odontólogo encontrado.
+[2023-09-11 23:35:26] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:35:42] [INFO ] [PacienteController:29] Guardando Paciente con id: null
+[2023-09-11 23:35:42] [INFO ] [PacienteController:30] Paciente guardado con éxito.
+[2023-09-11 23:35:43] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:35:48] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:37:26] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:37:27] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:37:36] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:38:14] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:38:15] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:38:15] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:38:16] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:39:21] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:39:28] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:39:39] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:40:00] [INFO ] [PacienteController:41] Buscando Paciente.
+[2023-09-11 23:40:00] [INFO ] [PacienteController:47] Paciente encontrado.
+[2023-09-11 23:40:01] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:40:12] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:40:12] [INFO ] [OdontologoController:42] Odontólogo encontrado.
+[2023-09-11 23:42:12] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:42:12] [INFO ] [OdontologoController:42] Odontólogo encontrado.
+[2023-09-11 23:42:44] [INFO ] [PacienteController:71] Eliminando al Paciente.
+[2023-09-11 23:42:44] [INFO ] [PacienteController:76] Paciente eliminado con éxito.
+[2023-09-11 23:43:18] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:43:18] [INFO ] [OdontologoController:42] Odontólogo encontrado.
+[2023-09-11 23:43:19] [INFO ] [OdontologoController:66] Eliminando al Odontólogo.
+[2023-09-11 23:43:19] [INFO ] [OdontologoController:71] Odontólogo eliminado con éxito.
+[2023-09-11 23:45:15] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:45:15] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:49:10] [INFO ] [OdontologoController:29] Guardando Odontólogo con id: null
+[2023-09-11 23:49:10] [INFO ] [OdontologoController:30] Odontólogo guardado con éxito.
+[2023-09-11 23:51:54] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-11 23:51:55] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-11 23:53:09] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:53:09] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:53:10] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:53:10] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:53:17] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:53:17] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:53:18] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:53:18] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:53:23] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:53:23] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:53:23] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-11 23:53:24] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-11 23:53:24] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-11 23:53:24] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-11 23:55:46] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:55:46] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:55:55] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-11 23:55:57] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:55:57] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:55:57] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-11 23:55:57] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-11 23:57:28] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-11 23:57:41] [INFO ] [PacienteController:29] Guardando Paciente con id: null
+[2023-09-11 23:57:41] [INFO ] [PacienteController:30] Paciente guardado con éxito.
+[2023-09-11 23:57:43] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-12 00:04:07] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:04:07] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:04:08] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-12 00:04:09] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-12 00:05:17] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:05:17] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:05:18] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-12 00:05:19] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-12 00:08:01] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:08:01] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:08:01] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:08:01] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:08:02] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:08:02] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:08:02] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:08:02] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:08:02] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:08:02] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:09:08] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-12 00:09:13] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:09:13] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:09:18] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:09:18] [ERROR] [OdontologoController:39] No se encontró al Odontólogo.
+[2023-09-12 00:09:21] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:09:21] [INFO ] [OdontologoController:42] Odontólogo encontrado.
+[2023-09-12 00:09:36] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-12 00:09:54] [INFO ] [OdontologoController:36] Buscando Odontólogo.
+[2023-09-12 00:09:54] [INFO ] [OdontologoController:42] Odontólogo encontrado.
+[2023-09-12 00:10:01] [INFO ] [OdontologoController:48] Actualizando Odontólogo con id: 3
+[2023-09-12 00:10:01] [INFO ] [OdontologoController:53] Odontólogo actualizado con éxito.
+[2023-09-12 00:10:02] [INFO ] [OdontologoController:60] Listando todos los Odontólogos.
+[2023-09-12 00:13:01] [INFO ] [PacienteController:65] Listando todos los Pacientes.
+[2023-09-13 15:31:18] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-13 15:32:41] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 15:32:41] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-13 15:33:27] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 15:33:27] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-13 15:34:34] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 15:34:34] [ERROR] [GlobalException:21] Error al guardar Paciente
+[2023-09-13 15:35:02] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-13 15:35:32] [INFO ] [PacienteServiceImpl:82] Actualizando Paciente con id: 1
+[2023-09-13 15:35:32] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-13 15:35:32] [INFO ] [PacienteServiceImpl:54] Paciente encontrado.
+[2023-09-13 15:35:32] [INFO ] [PacienteServiceImpl:87] Paciente actualizado con éxito.
+[2023-09-13 15:35:40] [INFO ] [PacienteServiceImpl:82] Actualizando Paciente con id: 5
+[2023-09-13 15:35:40] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 5
+[2023-09-13 15:35:40] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 5
+[2023-09-13 15:36:17] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-13 15:36:17] [INFO ] [PacienteServiceImpl:54] Paciente encontrado.
+[2023-09-13 15:36:21] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1000
+[2023-09-13 15:36:21] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1000
+[2023-09-13 15:36:29] [INFO ] [PacienteServiceImpl:71] Eliminando al Paciente: 1
+[2023-09-13 15:36:29] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-13 15:36:29] [INFO ] [PacienteServiceImpl:54] Paciente encontrado.
+[2023-09-13 15:36:29] [INFO ] [PacienteServiceImpl:76] Paciente eliminado con éxito: 1
+[2023-09-13 15:36:32] [INFO ] [PacienteServiceImpl:71] Eliminando al Paciente: 10000
+[2023-09-13 15:36:32] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 10000
+[2023-09-13 15:36:32] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 10000
+[2023-09-13 15:36:46] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 15:36:46] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-13 15:36:59] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-13 15:36:59] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-13 15:37:03] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000000
+[2023-09-13 15:37:03] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1000000
+[2023-09-13 15:37:11] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 1
+[2023-09-13 15:37:11] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-13 15:37:11] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-13 15:37:11] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2023-09-13 15:37:18] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 50000
+[2023-09-13 15:37:18] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 50000
+[2023-09-13 15:37:18] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 50000
+[2023-09-13 15:37:43] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 1
+[2023-09-13 15:37:43] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-13 15:37:43] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-13 15:37:43] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 1
+[2023-09-13 15:37:46] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 8754
+[2023-09-13 15:37:46] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 8754
+[2023-09-13 15:37:46] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 8754
+[2023-09-13 15:37:49] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 19:46:19] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 19:46:19] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-13 19:46:36] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 19:46:36] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-13 19:46:54] [INFO ] [OdontologoServiceImpl:37] Guardando Turno con id: null
+[2023-09-13 19:46:54] [INFO ] [OdontologoServiceImpl:39] Turno guardado con éxito.
+[2023-09-13 19:46:59] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 19:46:59] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 19:47:37] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 19:47:37] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 19:47:44] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 19:47:44] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 19:48:29] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 19:48:29] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 19:50:18] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 19:50:18] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:02:13] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 20:02:13] [ERROR] [GlobalException:21] Error al guardar Odontólogo
+[2023-09-13 20:02:15] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 20:02:15] [ERROR] [GlobalException:21] Error al guardar Paciente
+[2023-09-13 20:02:25] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-13 20:02:28] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:02:38] [INFO ] [OdontologoServiceImpl:37] Guardando Turno con id: null
+[2023-09-13 20:02:38] [INFO ] [OdontologoServiceImpl:39] Turno guardado con éxito.
+[2023-09-13 20:02:49] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 20:02:49] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:02:50] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 20:02:50] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:03:19] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 20:03:19] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-13 20:03:27] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 20:03:27] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:03:28] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 20:03:28] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:05:43] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 20:05:43] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:07:03] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 1
+[2023-09-13 20:07:03] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:08:11] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:08:11] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:09:01] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2023-09-13 20:09:01] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 2
+[2023-09-13 20:09:21] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 20:09:21] [ERROR] [GlobalException:21] Error al guardar Odontólogo
+[2023-09-13 20:09:29] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 20:09:29] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-13 20:09:32] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:09:36] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:09:36] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:10:58] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:10:58] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:11:04] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:11:04] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:11:04] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:11:55] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:11:55] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:11:55] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:11:55] [INFO ] [OdontologoServiceImpl:73] Turno actualizado con éxito.
+[2023-09-13 20:12:16] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:12:16] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:12:21] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:12:21] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:12:21] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:12:52] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:12:52] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:12:52] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:12:52] [INFO ] [OdontologoServiceImpl:73] Turno actualizado con éxito.
+[2023-09-13 20:13:21] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:13:21] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:13:21] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:13:55] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:13:55] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:13:55] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:13:55] [INFO ] [OdontologoServiceImpl:73] Turno actualizado con éxito.
+[2023-09-13 20:14:32] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:14:32] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:14:36] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:14:36] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:14:36] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:15:51] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:15:51] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:15:51] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:15:51] [INFO ] [OdontologoServiceImpl:73] Turno actualizado con éxito.
+[2023-09-13 20:15:57] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:15:57] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:15:57] [INFO ] [OdontologoServiceImpl:83] Turno encontrado.
+[2023-09-13 20:17:49] [INFO ] [OdontologoServiceImpl:68] Actualizando Turno con id: 2
+[2023-09-13 20:17:49] [INFO ] [OdontologoServiceImpl:78] Buscando Turno con el ID: 2
+[2023-09-13 20:17:49] [ERROR] [GlobalException:15] No existe el Turno solicitado: 2
+[2023-09-13 20:17:55] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 20:17:55] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-13 20:18:01] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 20:18:01] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-13 20:18:13] [INFO ] [OdontologoServiceImpl:37] Guardando Turno con id: null
+[2023-09-13 20:18:13] [ERROR] [GlobalException:21] Error al guardar Turno
+[2023-09-13 20:19:03] [INFO ] [OdontologoServiceImpl:37] Guardando Turno con id: null
+[2023-09-13 20:19:03] [ERROR] [GlobalException:21] Error al guardar Turno
+[2023-09-13 20:38:47] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:41:02] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:41:03] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:41:47] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:42:45] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:42:46] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:43:15] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:45:09] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:45:09] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:45:10] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:45:10] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:45:12] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:45:34] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:45:35] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:47:21] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:47:21] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:47:22] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:47:22] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:47:22] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:47:22] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:47:23] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 20:54:28] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 20:54:29] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-13 20:54:43] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 20:54:43] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-13 20:54:49] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 20:54:49] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-13 20:54:57] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 20:54:57] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-13 20:55:16] [INFO ] [OdontologoServiceImpl:46] Guardando Turno con id: null
+[2023-09-13 20:55:16] [INFO ] [OdontologoServiceImpl:48] Turno guardado con éxito.
+[2023-09-13 20:55:22] [INFO ] [OdontologoServiceImpl:101] Buscando Turno con el ID: 1
+[2023-09-13 20:55:22] [INFO ] [OdontologoServiceImpl:106] Turno encontrado.
+[2023-09-13 20:55:31] [INFO ] [OdontologoServiceImpl:76] Actualizando Turno con id: 1
+[2023-09-13 20:56:22] [INFO ] [OdontologoServiceImpl:76] Actualizando Turno con id: 1
+[2023-09-13 20:56:22] [INFO ] [OdontologoServiceImpl:96] Turno actualizado con éxito.
+[2023-09-13 20:57:51] [INFO ] [OdontologoServiceImpl:101] Buscando Turno con el ID: 1
+[2023-09-13 20:57:51] [INFO ] [OdontologoServiceImpl:106] Turno encontrado.
+[2023-09-13 20:57:59] [INFO ] [OdontologoServiceImpl:76] Actualizando Turno con id: 1
+[2023-09-13 20:59:50] [INFO ] [OdontologoServiceImpl:101] Buscando Turno con el ID: 1
+[2023-09-13 20:59:50] [INFO ] [OdontologoServiceImpl:106] Turno encontrado.
+[2023-09-13 20:59:56] [INFO ] [OdontologoServiceImpl:76] Actualizando Turno con id: 1
+[2023-09-13 20:59:56] [INFO ] [OdontologoServiceImpl:96] Turno actualizado con éxito.
+[2023-09-13 21:00:22] [INFO ] [OdontologoServiceImpl:101] Buscando Turno con el ID: 1
+[2023-09-13 21:00:22] [INFO ] [OdontologoServiceImpl:106] Turno encontrado.
+[2023-09-13 21:00:26] [INFO ] [OdontologoServiceImpl:76] Actualizando Turno con id: 1
+[2023-09-13 21:00:26] [INFO ] [OdontologoServiceImpl:96] Turno actualizado con éxito.
+[2023-09-13 21:00:48] [INFO ] [OdontologoServiceImpl:101] Buscando Turno con el ID: 1
+[2023-09-13 21:00:48] [INFO ] [OdontologoServiceImpl:106] Turno encontrado.
+[2023-09-13 21:00:52] [INFO ] [OdontologoServiceImpl:76] Actualizando Turno con id: 1
+[2023-09-13 21:00:52] [INFO ] [OdontologoServiceImpl:96] Turno actualizado con éxito.
+[2023-09-13 21:02:38] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:02:39] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:02:40] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:02:40] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:02:40] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:02:41] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:02:50] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:03:38] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:04:40] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:05:27] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:06:56] [INFO ] [OdontologoServiceImpl:101] Buscando Turno con el ID: 1
+[2023-09-13 21:06:56] [INFO ] [OdontologoServiceImpl:106] Turno encontrado.
+[2023-09-13 21:07:00] [INFO ] [OdontologoServiceImpl:76] Actualizando Turno con id: 1
+[2023-09-13 21:07:00] [INFO ] [OdontologoServiceImpl:96] Turno actualizado con éxito.
+[2023-09-13 21:07:48] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-13 21:07:48] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-13 21:08:37] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-13 21:08:37] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-13 21:08:59] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:12:30] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 21:12:33] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-13 21:12:33] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1
+[2023-09-13 21:47:31] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 21:47:32] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-13 22:31:37] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-13 22:31:37] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-13 22:31:41] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-13 22:31:41] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-13 22:31:47] [INFO ] [PacienteServiceImpl:82] Actualizando Paciente con id: 1
+[2023-09-13 22:31:47] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-13 22:31:47] [INFO ] [PacienteServiceImpl:54] Paciente encontrado.
+[2023-09-13 22:31:47] [INFO ] [PacienteServiceImpl:87] Paciente actualizado con éxito.
+[2023-09-13 22:31:52] [INFO ] [PacienteServiceImpl:82] Actualizando Paciente con id: 5
+[2023-09-13 22:31:52] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 5
+[2023-09-13 22:31:52] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 5
+[2023-09-13 22:31:56] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-13 22:31:56] [INFO ] [PacienteServiceImpl:54] Paciente encontrado.
+[2023-09-13 22:31:59] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1000
+[2023-09-13 22:31:59] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1000
+[2023-09-13 22:32:06] [INFO ] [PacienteServiceImpl:71] Eliminando al Paciente: 10000
+[2023-09-13 22:32:06] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 10000
+[2023-09-13 22:32:06] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 10000
+[2023-09-13 22:32:09] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-13 22:32:13] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2023-09-13 22:32:13] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 2
+[2023-09-13 22:32:20] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-13 22:32:20] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-13 22:32:23] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000000
+[2023-09-13 22:32:23] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000000
+[2023-09-13 22:32:28] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 1
+[2023-09-13 22:32:28] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-13 22:32:28] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-13 22:32:28] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2023-09-13 22:32:30] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 50000
+[2023-09-13 22:32:30] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 50000
+[2023-09-13 22:32:30] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 50000
+[2023-09-13 22:32:34] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-13 22:32:41] [INFO ] [OdontologoServiceImpl:46] Guardando Turno con id: null
+[2023-09-13 22:32:41] [INFO ] [OdontologoServiceImpl:48] Turno guardado con éxito.
+[2023-09-13 22:32:47] [INFO ] [OdontologoServiceImpl:101] Buscando Turno con el ID: 1
+[2023-09-13 22:32:47] [INFO ] [OdontologoServiceImpl:106] Turno encontrado.
+[2023-09-13 22:32:52] [INFO ] [OdontologoServiceImpl:101] Buscando Turno con el ID: 5
+[2023-09-13 22:32:52] [ERROR] [GlobalException:15] No existe el Turno solicitado: 5
+[2023-09-13 22:32:58] [INFO ] [OdontologoServiceImpl:76] Actualizando Turno con id: 1
+[2023-09-21 23:54:44] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-21 23:54:44] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-21 23:54:46] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-21 23:54:57] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-21 23:54:57] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-21 23:55:03] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-21 23:55:03] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-21 23:55:08] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2023-09-21 23:55:08] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-21 23:55:10] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-21 23:55:13] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2023-09-21 23:55:13] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-21 23:55:22] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 2
+[2023-09-21 23:55:22] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2023-09-21 23:55:22] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-21 23:55:22] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2023-09-21 23:55:24] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-21 23:55:26] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 2
+[2023-09-21 23:55:26] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2023-09-21 23:55:26] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-21 23:55:26] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 2
+[2023-09-21 23:55:28] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-21 23:55:32] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2023-09-21 23:55:32] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 2
+[2023-09-21 23:55:34] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 14:01:39] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 14:01:39] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 14:01:51] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 14:01:51] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 14:01:54] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-25 14:01:54] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 14:01:59] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2023-09-25 14:01:59] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 14:02:00] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 14:02:03] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-25 14:02:03] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 14:02:10] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 1
+[2023-09-25 14:02:10] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-25 14:02:10] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 14:02:10] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2023-09-25 14:02:12] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 14:02:14] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 14:02:19] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 1
+[2023-09-25 14:02:19] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-25 14:02:19] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 14:02:19] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 1
+[2023-09-25 14:02:53] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:02:53] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:03:16] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:03:16] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:03:20] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:03:30] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-25 14:03:30] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1
+[2023-09-25 14:03:31] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-25 14:03:31] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1
+[2023-09-25 14:03:31] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-25 14:03:31] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1
+[2023-09-25 14:03:31] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-25 14:03:31] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1
+[2023-09-25 14:03:31] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-25 14:03:31] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1
+[2023-09-25 14:03:32] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:03:37] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-25 14:03:37] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1
+[2023-09-25 14:03:40] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 2
+[2023-09-25 14:03:40] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 2
+[2023-09-25 14:03:41] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:03:46] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 5
+[2023-09-25 14:03:46] [INFO ] [PacienteServiceImpl:54] Paciente encontrado.
+[2023-09-25 14:03:56] [INFO ] [PacienteServiceImpl:82] Actualizando Paciente con id: 5
+[2023-09-25 14:03:56] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 5
+[2023-09-25 14:03:56] [INFO ] [PacienteServiceImpl:54] Paciente encontrado.
+[2023-09-25 14:03:56] [INFO ] [PacienteServiceImpl:87] Paciente actualizado con éxito.
+[2023-09-25 14:03:58] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:04:03] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-25 14:04:03] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1
+[2023-09-25 14:04:13] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:40:43] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 14:40:43] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 14:40:47] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 14:41:06] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:41:06] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:41:27] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:41:27] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:41:28] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:41:33] [INFO ] [PacienteServiceImpl:49] Buscando Paciente con el ID: 1
+[2023-09-25 14:41:33] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1
+[2023-09-25 14:41:40] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:43:33] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:43:33] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:43:52] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:43:52] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:43:54] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:49:07] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:49:07] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:49:23] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:49:23] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:49:24] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:51:51] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:51:51] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:52:01] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:52:01] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:52:02] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 14:53:08] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:53:08] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:53:22] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 14:53:22] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 14:53:23] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:02:15] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 15:02:15] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 15:02:26] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 15:02:26] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 15:02:27] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:02:45] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 15:02:45] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 15:02:47] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:24:43] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 15:24:43] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 15:24:53] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 15:24:53] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 15:24:54] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:00] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:01] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:02] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:02] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:02] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:03] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:03] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:18] [INFO ] [PacienteServiceImpl:39] Guardando Paciente con id: null
+[2023-09-25 15:25:18] [INFO ] [PacienteServiceImpl:41] Paciente guardado con éxito.
+[2023-09-25 15:25:19] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:25:26] [INFO ] [PacienteServiceImpl:60] Listando todos los Pacientes.
+[2023-09-25 15:29:00] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 15:29:00] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 15:29:11] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 15:29:11] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 15:29:21] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 15:29:21] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 15:29:22] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 15:29:25] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 15:29:26] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 15:29:26] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 15:31:13] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 15:31:13] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 15:31:22] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 15:31:22] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 15:31:23] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 15:31:25] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 15:53:43] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 15:53:45] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 15:53:50] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 15:53:50] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 15:53:55] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-25 15:53:55] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 15:53:56] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 16:10:51] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 16:10:56] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 16:22:59] [INFO ] [OdontologoServiceImpl:46] Guardando Turno con id: null
+[2023-09-25 16:22:59] [ERROR] [GlobalException:21] Error al guardar Turno
+[2023-09-25 16:23:41] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 16:23:41] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 16:23:53] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 16:23:53] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 16:24:03] [INFO ] [OdontologoServiceImpl:46] Guardando Turno con id: null
+[2023-09-25 16:24:03] [ERROR] [GlobalException:21] Error al guardar Turno
+[2023-09-25 16:24:09] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 16:24:13] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 16:24:28] [INFO ] [OdontologoServiceImpl:46] Guardando Turno con id: null
+[2023-09-25 16:24:28] [INFO ] [OdontologoServiceImpl:48] Turno guardado con éxito.
+[2023-09-25 17:22:56] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 17:22:56] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 17:23:06] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 17:23:06] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 17:23:08] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-25 17:23:08] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 17:23:14] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 5
+[2023-09-25 17:23:14] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 5
+[2023-09-25 17:23:20] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 17:23:24] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 5
+[2023-09-25 17:23:24] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 5
+[2023-09-25 17:23:25] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 17:23:29] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 17:23:46] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 17:23:46] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 17:23:57] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 17:23:57] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 17:24:03] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1000
+[2023-09-25 17:24:03] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 1000
+[2023-09-25 17:24:07] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2023-09-25 17:24:07] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2023-09-25 17:24:09] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 17:24:10] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 17:24:11] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 17:24:11] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 17:24:53] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 17:26:03] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:26:03] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 17:26:13] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:26:13] [ERROR] [GlobalException:21] Error al guardar Turno
+[2023-09-25 17:26:46] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:26:46] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 17:26:58] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:26:58] [ERROR] [GlobalException:21] Error al guardar Turno
+[2023-09-25 17:29:05] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:29:05] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 17:29:20] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:29:20] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 17:31:36] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 6
+[2023-09-25 17:31:36] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2023-09-25 17:31:44] [INFO ] [OdontologoServiceImpl:73] Actualizando Turno con id: 6
+[2023-09-25 17:31:44] [INFO ] [OdontologoServiceImpl:93] Turno actualizado con éxito.
+[2023-09-25 17:39:39] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 17:39:39] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 17:39:52] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 17:39:52] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 17:40:02] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:40:02] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 17:40:07] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 1
+[2023-09-25 17:40:07] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2023-09-25 17:40:14] [INFO ] [OdontologoServiceImpl:73] Actualizando Turno con id: 1
+[2023-09-25 17:40:14] [INFO ] [OdontologoServiceImpl:93] Turno actualizado con éxito.
+[2023-09-25 17:40:17] [INFO ] [OdontologoServiceImpl:63] Eliminando al Turno: 1
+[2023-09-25 17:40:17] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 1
+[2023-09-25 17:40:17] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2023-09-25 17:40:17] [INFO ] [OdontologoServiceImpl:68] Paciente eliminado con éxito: 1
+[2023-09-25 17:42:06] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 17:42:06] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 17:42:17] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 17:42:17] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 17:42:22] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2023-09-25 17:42:22] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 17:42:27] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:27] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:28] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:28] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:29] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:29] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:29] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:29] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:29] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:29] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:29] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:29] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:30] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:30] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:30] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:30] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:31] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:31] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:31] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:31] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:39] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2023-09-25 17:42:39] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 17:42:43] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1000
+[2023-09-25 17:42:43] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 1000
+[2023-09-25 17:42:56] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 17:43:01] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2023-09-25 17:43:01] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 17:43:05] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 3
+[2023-09-25 17:43:05] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2023-09-25 17:43:05] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 17:43:05] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2023-09-25 17:43:10] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 17:43:13] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 3
+[2023-09-25 17:43:13] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2023-09-25 17:43:13] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 17:43:13] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 3
+[2023-09-25 17:43:43] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 17:43:43] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 17:43:48] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 100
+[2023-09-25 17:43:48] [ERROR] [GlobalException:15] No existe el Paciente solicitado: 100
+[2023-09-25 17:43:53] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2023-09-25 17:43:53] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2023-09-25 17:43:57] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 17:43:59] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 2
+[2023-09-25 17:43:59] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2023-09-25 17:44:03] [INFO ] [PacienteServiceImpl:79] Actualizando Paciente con id: 2
+[2023-09-25 17:44:03] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 2
+[2023-09-25 17:44:03] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2023-09-25 17:44:03] [INFO ] [PacienteServiceImpl:84] Paciente actualizado con éxito.
+[2023-09-25 17:44:04] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 17:44:10] [INFO ] [PacienteServiceImpl:68] Eliminando al Paciente: 1
+[2023-09-25 17:44:10] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2023-09-25 17:44:10] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2023-09-25 17:44:10] [INFO ] [PacienteServiceImpl:73] Paciente eliminado con éxito: 1
+[2023-09-25 17:44:25] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:44:25] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 17:44:44] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 17:44:44] [ERROR] [GlobalException:21] Error al guardar Turno
+[2023-09-25 17:44:46] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 2
+[2023-09-25 17:44:46] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2023-09-25 17:44:50] [INFO ] [OdontologoServiceImpl:73] Actualizando Turno con id: 2
+[2023-09-25 17:44:50] [INFO ] [OdontologoServiceImpl:93] Turno actualizado con éxito.
+[2023-09-25 17:44:53] [INFO ] [OdontologoServiceImpl:63] Eliminando al Turno: 2
+[2023-09-25 17:44:53] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 2
+[2023-09-25 17:44:53] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2023-09-25 17:44:53] [INFO ] [OdontologoServiceImpl:68] Paciente eliminado con éxito: 2
+[2023-09-25 18:26:31] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 18:26:31] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 18:26:34] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2023-09-25 18:26:34] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2023-09-25 18:26:36] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2023-09-25 18:26:49] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2023-09-25 18:26:49] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2023-09-25 18:26:54] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2023-09-25 18:27:03] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 18:27:03] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 18:27:05] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 1
+[2023-09-25 18:27:05] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2023-09-25 18:27:22] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2023-09-25 18:27:22] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2023-09-25 18:27:31] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 18:27:31] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 18:28:00] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 18:28:00] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2023-09-25 18:28:09] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2023-09-25 18:28:09] [ERROR] [GlobalException:21] Error al guardar Turno
+[2023-09-25 18:35:09] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-05-07 18:46:21] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-05-11 19:12:03] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-05-11 19:12:09] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-05-11 19:12:09] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-05-11 19:12:11] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 13:53:01] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 13:53:01] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 13:53:08] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 13:53:08] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 13:53:11] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 13:53:11] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 13:53:17] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 1
+[2024-07-18 13:53:17] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 13:53:17] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 13:53:17] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2024-07-18 13:53:22] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 13:53:22] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 13:53:24] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 13:54:18] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 13:54:33] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 13:54:33] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 13:54:36] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2024-07-18 13:54:36] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 13:54:52] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 13:54:55] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2024-07-18 13:54:55] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 13:55:00] [INFO ] [PacienteServiceImpl:79] Actualizando Paciente con id: 1
+[2024-07-18 13:55:00] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2024-07-18 13:55:00] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 13:55:00] [INFO ] [PacienteServiceImpl:84] Paciente actualizado con éxito.
+[2024-07-18 13:55:02] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 13:55:04] [INFO ] [PacienteServiceImpl:68] Eliminando al Paciente: 1
+[2024-07-18 13:55:04] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2024-07-18 13:55:04] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 13:55:04] [INFO ] [PacienteServiceImpl:73] Paciente eliminado con éxito: 1
+[2024-07-18 13:55:19] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 13:55:21] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 13:55:34] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 13:55:34] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 13:55:36] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 13:55:46] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 13:55:46] [ERROR] [GlobalException:21] Error al guardar Turno
+[2024-07-18 14:00:10] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 14:00:14] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 14:00:24] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 14:00:24] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 14:00:28] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 1
+[2024-07-18 14:00:28] [ERROR] [GlobalException:15] No existe el Turno solicitado: 1
+[2024-07-18 14:00:39] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 2
+[2024-07-18 14:00:39] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2024-07-18 16:30:54] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 16:30:54] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 16:31:02] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 3
+[2024-07-18 16:31:03] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2024-07-18 16:31:08] [INFO ] [OdontologoServiceImpl:73] Actualizando Turno con id: 3
+[2024-07-18 16:31:08] [INFO ] [OdontologoServiceImpl:93] Turno actualizado con éxito.
+[2024-07-18 17:01:25] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:08:37] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:08:39] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:08:48] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:09:38] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 17:09:38] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 17:09:43] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 17:09:43] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 17:09:48] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:10:05] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 17:10:05] [ERROR] [GlobalException:21] Error al guardar Odontólogo
+[2024-07-18 17:10:06] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:10:11] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:10:15] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 17:10:15] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 17:11:23] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 17:11:23] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 17:12:26] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 17:12:26] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 17:12:54] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 17:12:54] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 17:13:09] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 17:13:09] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 17:13:22] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 17:13:22] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 17:13:23] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:13:55] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 122
+[2024-07-18 17:13:55] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 122
+[2024-07-18 17:13:56] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 122
+[2024-07-18 17:13:56] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 122
+[2024-07-18 17:13:56] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 122
+[2024-07-18 17:13:56] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 122
+[2024-07-18 17:13:56] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 122
+[2024-07-18 17:13:56] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 122
+[2024-07-18 17:13:58] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 122
+[2024-07-18 17:13:58] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 122
+[2024-07-18 17:14:01] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 17:14:01] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 17:14:04] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 17:18:48] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:18:48] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 17:19:21] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:19:21] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 17:20:09] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:20:09] [ERROR] [GlobalException:21] Error al guardar Paciente
+[2024-07-18 17:20:12] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 17:21:07] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:21:07] [ERROR] [GlobalException:21] Error al guardar Paciente
+[2024-07-18 17:21:59] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:21:59] [ERROR] [GlobalException:21] Error al guardar Paciente
+[2024-07-18 17:22:01] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 17:23:03] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:23:03] [ERROR] [GlobalException:21] Error al guardar Paciente
+[2024-07-18 17:23:16] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 17:24:02] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:24:02] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 17:24:45] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:24:45] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 17:25:24] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 17:25:24] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 17:25:25] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 17:25:54] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 17:25:54] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 17:26:06] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 17:26:06] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 18:38:22] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 18:38:22] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 18:38:22] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 18:38:22] [ERROR] [GlobalException:21] Error al guardar Odontólogo
+[2024-07-18 18:38:24] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 18:58:28] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 19:33:32] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 19:33:32] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 19:33:44] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 10
+[2024-07-18 19:33:44] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 10
+[2024-07-18 19:33:49] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 6
+[2024-07-18 19:33:49] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 6
+[2024-07-18 19:33:51] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 19:34:03] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 8
+[2024-07-18 19:34:03] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 8
+[2024-07-18 19:34:04] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 8
+[2024-07-18 19:34:04] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 8
+[2024-07-18 19:34:05] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 19:34:09] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 7
+[2024-07-18 19:34:09] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 19:34:11] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 19:51:04] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 19:51:04] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 19:51:17] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 19:51:17] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 19:51:30] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 19:51:30] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 19:52:54] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 19:52:54] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 19:53:41] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 19:53:41] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 19:54:24] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 19:54:24] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 19:57:17] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 19:57:17] [ERROR] [GlobalException:21] Error al guardar Odontólogo
+[2024-07-18 19:57:19] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 19:57:27] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:01:03] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:02:21] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:02:21] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:02:30] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:02:35] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 1
+[2024-07-18 20:02:35] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 20:02:35] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:02:35] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 1
+[2024-07-18 20:02:43] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2024-07-18 20:02:43] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:02:58] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 2
+[2024-07-18 20:02:58] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2024-07-18 20:02:58] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:02:58] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2024-07-18 20:03:00] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:03:13] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 123
+[2024-07-18 20:03:13] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 123
+[2024-07-18 20:03:14] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 123
+[2024-07-18 20:03:14] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 123
+[2024-07-18 20:03:16] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:03:19] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 123
+[2024-07-18 20:03:19] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 123
+[2024-07-18 20:03:19] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 123
+[2024-07-18 20:03:19] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 123
+[2024-07-18 20:03:22] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 122
+[2024-07-18 20:03:22] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 122
+[2024-07-18 20:03:23] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 122
+[2024-07-18 20:03:23] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 122
+[2024-07-18 20:03:23] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 122
+[2024-07-18 20:03:23] [ERROR] [GlobalException:15] No existe el Odontólogo solicitado: 122
+[2024-07-18 20:03:28] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:04:53] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:04:53] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:04:59] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:05:21] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 2
+[2024-07-18 20:05:21] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2024-07-18 20:05:21] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:05:21] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 2
+[2024-07-18 20:05:27] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2024-07-18 20:05:27] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:05:41] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 3
+[2024-07-18 20:05:41] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2024-07-18 20:05:41] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:05:41] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2024-07-18 20:05:43] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:06:00] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2024-07-18 20:06:00] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:06:36] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 20:06:36] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 20:06:41] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:06:56] [INFO ] [PacienteServiceImpl:68] Eliminando al Paciente: 1
+[2024-07-18 20:06:56] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2024-07-18 20:06:56] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:06:56] [INFO ] [PacienteServiceImpl:73] Paciente eliminado con éxito: 1
+[2024-07-18 20:13:09] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:13:24] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 6
+[2024-07-18 20:13:24] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 6
+[2024-07-18 20:13:24] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:13:24] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 6
+[2024-07-18 20:13:31] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:13:49] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:13:49] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:13:50] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:15:13] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:15:13] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:15:20] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:15:37] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2024-07-18 20:15:37] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:15:53] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 3
+[2024-07-18 20:15:53] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2024-07-18 20:15:53] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:15:53] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2024-07-18 20:15:55] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:16:10] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 5
+[2024-07-18 20:16:10] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 5
+[2024-07-18 20:16:10] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:16:10] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 5
+[2024-07-18 20:16:20] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2024-07-18 20:16:20] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:16:59] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 20:16:59] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 20:17:03] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:17:21] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 2
+[2024-07-18 20:17:21] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:17:49] [INFO ] [PacienteServiceImpl:79] Actualizando Paciente con id: 2
+[2024-07-18 20:17:49] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 2
+[2024-07-18 20:17:49] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:17:49] [INFO ] [PacienteServiceImpl:84] Paciente actualizado con éxito.
+[2024-07-18 20:17:51] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:18:05] [INFO ] [PacienteServiceImpl:68] Eliminando al Paciente: 3
+[2024-07-18 20:18:05] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 3
+[2024-07-18 20:18:05] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:18:05] [INFO ] [PacienteServiceImpl:73] Paciente eliminado con éxito: 3
+[2024-07-18 20:18:12] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 5
+[2024-07-18 20:18:12] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:18:44] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 20:18:44] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 20:19:06] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 1
+[2024-07-18 20:19:06] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2024-07-18 20:19:15] [INFO ] [OdontologoServiceImpl:73] Actualizando Turno con id: 1
+[2024-07-18 20:19:15] [INFO ] [OdontologoServiceImpl:93] Turno actualizado con éxito.
+[2024-07-18 20:19:23] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 1
+[2024-07-18 20:19:23] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2024-07-18 20:33:08] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:33:42] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:33:42] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:33:52] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:33:52] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:34:06] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:34:06] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:34:09] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:34:51] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 20:34:51] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 20:35:26] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 20:35:26] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 20:35:28] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:36:21] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 20:36:21] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 20:36:22] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:36:44] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 20:36:44] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 20:37:14] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:37:34] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:50:56] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:50:56] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:51:00] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:51:16] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2024-07-18 20:51:16] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:51:27] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 2
+[2024-07-18 20:51:27] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 2
+[2024-07-18 20:51:27] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:51:27] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2024-07-18 20:51:28] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:51:42] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 4
+[2024-07-18 20:51:42] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 4
+[2024-07-18 20:51:42] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:51:42] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 4
+[2024-07-18 20:51:48] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 3
+[2024-07-18 20:51:48] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:52:43] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:52:46] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:52:50] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:53:52] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:53:53] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 20:53:53] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:56:16] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 20:56:16] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 20:56:21] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:56:33] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 20:56:33] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:56:43] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 1
+[2024-07-18 20:56:43] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 20:56:43] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:56:43] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2024-07-18 20:56:44] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 20:56:57] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 5
+[2024-07-18 20:56:57] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 5
+[2024-07-18 20:56:57] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:56:57] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 5
+[2024-07-18 20:57:04] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 20:57:04] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 20:57:40] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 20:57:40] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 20:57:43] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:57:55] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2024-07-18 20:57:55] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:58:09] [INFO ] [PacienteServiceImpl:79] Actualizando Paciente con id: 1
+[2024-07-18 20:58:09] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2024-07-18 20:58:09] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:58:09] [INFO ] [PacienteServiceImpl:84] Paciente actualizado con éxito.
+[2024-07-18 20:58:10] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 20:58:23] [INFO ] [PacienteServiceImpl:68] Eliminando al Paciente: 4
+[2024-07-18 20:58:23] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 4
+[2024-07-18 20:58:23] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:58:23] [INFO ] [PacienteServiceImpl:73] Paciente eliminado con éxito: 4
+[2024-07-18 20:58:34] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 3
+[2024-07-18 20:58:34] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 20:58:56] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 20:58:56] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 20:59:15] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 1
+[2024-07-18 20:59:15] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2024-07-18 20:59:46] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 20:59:46] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 21:28:49] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 21:28:49] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 21:29:01] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 21:29:01] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 21:29:17] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 21:29:17] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 21:29:19] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 21:30:19] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 21:30:19] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 21:30:56] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 21:30:56] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 21:31:38] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 21:31:38] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 21:31:48] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 21:32:40] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 21:32:40] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 21:32:52] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 21:32:52] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 21:33:01] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 21:33:01] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 21:35:17] [INFO ] [OdontologoServiceImpl:34] Guardando Odontólogo con id: null
+[2024-07-18 21:35:17] [INFO ] [OdontologoServiceImpl:36] Odontólogo guardado con éxito.
+[2024-07-18 21:35:23] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 21:35:34] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 21:35:34] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 21:35:47] [INFO ] [OdontologoServiceImpl:78] Actualizando Odontólogo con id: 1
+[2024-07-18 21:35:47] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 21:35:47] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 21:35:47] [INFO ] [OdontologoServiceImpl:83] Odontólogo actualizado con éxito.
+[2024-07-18 21:35:48] [INFO ] [OdontologoServiceImpl:44] Listando todos los Odontólogos.
+[2024-07-18 21:36:03] [INFO ] [OdontologoServiceImpl:66] Eliminando al Odontólogo: 4
+[2024-07-18 21:36:03] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 4
+[2024-07-18 21:36:03] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 21:36:03] [INFO ] [OdontologoServiceImpl:71] Odontólogo eliminado con éxito: 4
+[2024-07-18 21:36:10] [INFO ] [OdontologoServiceImpl:55] Buscando Odontólogo con el ID: 1
+[2024-07-18 21:36:10] [INFO ] [OdontologoServiceImpl:60] Odontólogo encontrado.
+[2024-07-18 21:36:46] [INFO ] [PacienteServiceImpl:36] Guardando Paciente con id: null
+[2024-07-18 21:36:46] [INFO ] [PacienteServiceImpl:38] Paciente guardado con éxito.
+[2024-07-18 21:36:49] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 21:37:02] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 4
+[2024-07-18 21:37:02] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 21:37:25] [INFO ] [PacienteServiceImpl:79] Actualizando Paciente con id: 4
+[2024-07-18 21:37:25] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 4
+[2024-07-18 21:37:25] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 21:37:25] [INFO ] [PacienteServiceImpl:84] Paciente actualizado con éxito.
+[2024-07-18 21:37:26] [INFO ] [PacienteServiceImpl:57] Listando todos los Pacientes.
+[2024-07-18 21:37:36] [INFO ] [PacienteServiceImpl:46] Buscando Paciente con el ID: 1
+[2024-07-18 21:37:36] [INFO ] [PacienteServiceImpl:51] Paciente encontrado.
+[2024-07-18 21:37:56] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 21:37:56] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
+[2024-07-18 21:38:10] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 4
+[2024-07-18 21:38:10] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2024-07-18 21:38:17] [INFO ] [OdontologoServiceImpl:73] Actualizando Turno con id: 4
+[2024-07-18 21:38:17] [INFO ] [OdontologoServiceImpl:93] Turno actualizado con éxito.
+[2024-07-18 21:38:26] [INFO ] [OdontologoServiceImpl:98] Buscando Turno con el ID: 1
+[2024-07-18 21:38:26] [INFO ] [OdontologoServiceImpl:103] Turno encontrado.
+[2024-07-18 21:38:56] [INFO ] [OdontologoServiceImpl:43] Guardando Turno con id: null
+[2024-07-18 21:38:56] [INFO ] [OdontologoServiceImpl:45] Turno guardado con éxito.
